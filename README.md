@@ -4,4 +4,4 @@
 
 ## License
 
-**vue-starer** © [Percy Ma](https://git.io/kecrily), Released under [MIT License](LICENSE).
+**vue-starer** © [Percy Ma](https://github.com/kecrily), Released under [MIT License](LICENSE).
